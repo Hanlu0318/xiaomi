@@ -1,0 +1,23 @@
+{
+  "name": "xiaomishop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ww24kobe/xiaomi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ww24kobe/xiaomi/issues"
+  },
+  "homepage": "https://github.com/ww24kobe/xiaomi#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
